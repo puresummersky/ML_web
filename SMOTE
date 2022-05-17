@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T13:57:42.370Z" agent="5.0 (Macintosh)" etag="cGxuskaN8QaveYzP4QcW" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T14:00:24.801Z" agent="5.0 (Macintosh)" etag="SsKWXeD76G6VF8KMntkG" version="18.0.3" type="github">
   <diagram id="hveANTuzYw4YfShqhkiL" name="Page-1">
     <mxGraphModel dx="349" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="yL8vOi5UCPUfwe0IiLDx-10" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;K=5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="232" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yL8vOi5UCPUfwe0IiLDx-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;x&lt;sub&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="219" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
