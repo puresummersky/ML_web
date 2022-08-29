@@ -1,35 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:08:55.043Z" agent="5.0 (Macintosh)" etag="HBTlvALRgkbGUhgyfPW0" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T09:15:46.671Z" agent="5.0 (Macintosh)" etag="ViqMXq7p9dMN6ZAkJN62" version="20.2.6" type="github">
   <diagram id="GZnJCpQ3d5WbazsN9seQ" name="第 1 页">
-    <mxGraphModel dx="1127" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-14" value="&lt;div&gt;测试信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="140" height="80" as="geometry" />
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#000000;opacity=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="310" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-1" value="MPI Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="200" width="450" height="30" as="geometry" />
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;opacity=50;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="98" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-6" value="&lt;div&gt;接管次数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="80" height="40" as="geometry" />
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000000;opacity=50;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="225" width="98" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-8" value="自动驾驶里程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="420" width="110" height="20" as="geometry" />
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#000000;opacity=50;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="226" width="98" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-9" value="&lt;div&gt;道路坐标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="80" height="40" as="geometry" />
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-14" value="&lt;div&gt;测试&lt;/div&gt;&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="396" y="330" width="44" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-10" value="&lt;div&gt;道路ID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="320" width="80" height="40" as="geometry" />
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-1" value="MPI Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-12" value="&lt;div&gt;接管&lt;/div&gt;&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="270" width="140" height="90" as="geometry" />
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-6" value="&lt;div&gt;接管次数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="275" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-13" value="&lt;div&gt;道路&lt;/div&gt;&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="64" height="90" as="geometry" />
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-8" value="自动驾驶里程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="449" y="350" width="81" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tpxF0HcjHLxn8Adc8xrV-5" value="&lt;div&gt;接管类型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="270" width="50" height="40" as="geometry" />
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-9" value="&lt;div&gt;道路坐标&lt;/div&gt;&lt;div&gt;线段集合&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="259" y="243" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-12" value="&lt;div&gt;接管&lt;/div&gt;&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="396" y="225" width="44" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-13" value="&lt;div&gt;道路&lt;/div&gt;&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="348" y="226" width="41" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="tpxF0HcjHLxn8Adc8xrV-5" value="&lt;div&gt;接管类型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="449" y="230" width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-3" value="道路ID" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="333" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43;endSize=6.33;width=28;fillColor=#d80073;strokeColor=#000000;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="442" as="sourcePoint" />
+            <mxPoint x="460" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-9" value="计算MPI" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#fad9d5;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43;endSize=6.33;width=28;fillColor=#76608a;strokeColor=#000000;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="sourcePoint" />
+            <mxPoint x="320" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43;endSize=6.33;width=28;fillColor=#d80073;strokeColor=#000000;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="524" as="sourcePoint" />
+            <mxPoint x="460" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-13" value="在高精地图上分道路绘制MPI热力图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="564" width="292" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
