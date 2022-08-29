@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T11:48:06.455Z" agent="5.0 (Macintosh)" etag="FrTuQ6NT9HejFHYmR94g" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T11:52:41.820Z" agent="5.0 (Macintosh)" etag="x4Z_5yATOkGsscCHxPYl" version="20.2.6" type="github">
   <diagram id="8gTWlTr3HglyYjwETdae" name="第 1 页">
-    <mxGraphModel dx="939" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="939" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="fB1kKmx0TNIUG-KfTX_2-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fB1kKmx0TNIUG-KfTX_2-61" value="$$(MPI | Road \#1)=\frac{无人接管行驶距离}{接管次数}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
