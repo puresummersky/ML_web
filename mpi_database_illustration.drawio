@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T09:15:46.671Z" agent="5.0 (Macintosh)" etag="ViqMXq7p9dMN6ZAkJN62" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T09:22:53.257Z" agent="5.0 (Macintosh)" etag="TwOkkW-nmLvOwBBbLoNo" version="20.2.6" type="github">
   <diagram id="GZnJCpQ3d5WbazsN9seQ" name="第 1 页">
     <mxGraphModel dx="1127" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
             <mxPoint x="460" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-9" value="计算MPI" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#fad9d5;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ABLpHvJe-SKRw2Y4EDqh-9" value="计算MPI" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#a20025;strokeColor=#6F0000;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ABLpHvJe-SKRw2Y4EDqh-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43;endSize=6.33;width=28;fillColor=#76608a;strokeColor=#000000;shadow=1;" edge="1" parent="1">
