@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T08:16:28.306Z" agent="5.0 (Macintosh)" etag="BScFZoqbricJvTkO-wUt" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T08:16:40.764Z" agent="5.0 (Macintosh)" etag="n3DfLMSpuJ934weu3WXM" version="20.2.7" type="github">
   <diagram id="E23BzTuwbjabltv9Nx4B" name="第 1 页">
     <mxGraphModel dx="1418" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -213,10 +213,10 @@
           <mxGeometry x="456.06" y="440.87" width="158.75" height="29.75" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-166" value="&lt;div&gt;\(S^{(n)}=\{s^{(n)}_1,s^{(n)}_2,\dots,s^{(n)}_m\}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="260.31" y="580" width="168.75" height="40" as="geometry" />
+          <mxGeometry x="260.31" y="580" width="179.69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-167" value="&lt;div&gt;\(S^{(n)}_N=\sum_{i\in S^{(n)}}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="260.31" y="630" width="168.75" height="40" as="geometry" />
+          <mxGeometry x="260.31" y="630" width="179.69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-170" value="订单池&amp;nbsp; \(O^{(n+1)}\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="336.06" y="522.5" width="114.25" height="47.5" as="geometry" />
