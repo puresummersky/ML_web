@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T05:28:33.296Z" agent="5.0 (Macintosh)" etag="T0YGLy-VlrCalAZADdyD" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T06:52:51.978Z" agent="5.0 (Macintosh)" etag="zpxge3PaPDOfjqhaDXWw" version="20.2.7" type="github">
   <diagram id="E23BzTuwbjabltv9Nx4B" name="第 1 页">
-    <mxGraphModel dx="1592" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1496" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,8 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-2" value="站点划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-3" value="\(road\_id^{(n)}_1\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-3" value="道路&amp;nbsp; \(r^{(n)}_1\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-132.75" y="330" width="108" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-50" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-93.75" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3.25" y="327.5" width="10" height="10" as="geometry" />
@@ -79,20 +76,14 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-13.75" y="447" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-75" value="包含站点数：\(p^{(n)}_1\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11.25" y="332.5" width="160" height="30" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-75" value="包含站点数：\(s^{(n)}_1\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13.25" y="328.75" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-76" value="包含站点数：\(p^{(n)}_2\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11.25" y="375" width="160" height="30" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-76" value="包含站点数：\(s^{(n)}_2\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13.25" y="377" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-77" value="包含站点数：\(p^{(n)}_m\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11.25" y="425" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-80" value="\(road\_id^{(n)}_2\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-131.75" y="376.25" width="108" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-81" value="\(road\_id^{(n)}_m\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-131.75" y="426.25" width="108" height="27.5" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-77" value="包含站点数：\(s^{(n)}_m\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13.25" y="427" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-83" value="&lt;div&gt;站点池为\(\emptyset\)&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;满足其他终止条件&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201.25" y="147.5" width="167.5" height="120" as="geometry" />
@@ -106,29 +97,23 @@
             <mxPoint x="9.869999999999997" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16.910569105691057;endSize=2.9138211382113823;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="166" y="400" as="sourcePoint" />
-            <mxPoint x="186" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-124" value="&lt;div&gt;道路池&amp;nbsp; \(R^{(n+1)}\)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-124" value="&lt;div&gt;道路池\(R^{(n+1)}\)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="387" width="110" height="70" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrA-a9Iw9x8YZGmcqF-S-151" target="yrA-a9Iw9x8YZGmcqF-S-170">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-151" value="\(road\_id^{(n)}_x\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="330" width="108" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-152" value="\(\max\frac{p^{n}_x}{\sum_{i=1}^{m}p_i}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="328.75" width="240" height="30" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-151" value="道路&amp;nbsp; \(r^{(n)}_x\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="412" width="108" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="520" width="204.62" height="120" as="geometry" />
+          <mxGeometry x="-54.620000000000005" y="520" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-47" value="&lt;div&gt;站&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;池&lt;/div&gt;&lt;div&gt;\(S^{(n)}\)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140.75" y="520" width="38.37" height="120" as="geometry" />
+          <mxGeometry x="-85.36999999999999" y="520" width="38.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-153" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-32.76" y="540" width="95" height="80" as="geometry" />
+          <mxGeometry x="-21.379999999999992" y="540" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yrA-a9Iw9x8YZGmcqF-S-153">
           <mxGeometry x="65" y="40" width="10" height="10" as="geometry" />
@@ -192,6 +177,36 @@
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yrA-a9Iw9x8YZGmcqF-S-153">
           <mxGeometry x="55" y="65" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-154" value="道路&amp;nbsp; \(r^{(n)}_2\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-132.75" y="379.5" width="108" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-157" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-93.75" y="398" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-158" value="道路&amp;nbsp; \(r^{(n)}_m\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-132.75" y="429.5" width="108" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-163" value="\(R^{(n)}=\{r^{(n)}_1,r^{(n)}_2,\dots,r^{(n)}_m\}\)" style="text;whiteSpace=wrap;html=1;align=center;fillColor=none;strokeColor=#d6b656;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-194.75" y="473.75" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-165" value="\(s^{n}_x=\max\frac{s^{n}_i}{S^{(n)}_N},s_i^{n} \in S^{(n)}\)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="408.37" width="158.75" height="29.75" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-166" value="&lt;div&gt;\(S^{(n)}=\{s^{(n)}_1,s^{(n)}_2,\dots,s^{(n)}_m\}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-68.12" y="650" width="168.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-167" value="&lt;div&gt;\(S^{(n)}_N=\sum_{i\in S^{(n)}}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-68.12" y="700" width="168.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-170" value="订单池&amp;nbsp; \(O^{(n+1)}=O^{(n)} \cup r^{(n)}_x\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="492.5" width="179" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-171" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-176" value="加入订单池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
