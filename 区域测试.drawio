@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T08:12:01.216Z" agent="5.0 (Macintosh)" etag="TeBufK8opODqnBHjtoTn" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T08:16:28.306Z" agent="5.0 (Macintosh)" etag="BScFZoqbricJvTkO-wUt" version="20.2.7" type="github">
   <diagram id="E23BzTuwbjabltv9Nx4B" name="第 1 页">
-    <mxGraphModel dx="1566" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1418" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-195" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=none;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-195" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeColor=#666666;fillStyle=cross-hatch;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-70" y="310" width="700" height="380" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;opacity=50;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-86" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="125.06" y="330" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-52" value="&lt;div&gt;道&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;池&lt;/div&gt;&lt;div&gt;\(R^{(n)}\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-52" value="&lt;div&gt;道&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;池&lt;/div&gt;&lt;div&gt;\(R^{(n)}\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;labelBackgroundColor=none;shadow=1;fontStyle=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-49.69" y="340" width="39.25" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" source="yrA-a9Iw9x8YZGmcqF-S-2" target="yrA-a9Iw9x8YZGmcqF-S-83" edge="1">
@@ -126,13 +126,13 @@
           <mxGeometry x="337.06" y="442" width="108" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=50;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="90.44" y="550" width="160" height="120" as="geometry" />
+          <mxGeometry x="90.44" y="555" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-47" value="&lt;div&gt;站&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;池&lt;/div&gt;&lt;div&gt;\(S^{(n)}\)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="59.69000000000001" y="550" width="38.37" height="120" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-47" value="&lt;div&gt;站&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;池&lt;/div&gt;&lt;div&gt;\(S^{(n)}\)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=none;shadow=1;fontStyle=1;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="59.69000000000001" y="555" width="38.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-153" value="" style="group;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="123.68" y="570" width="95" height="80" as="geometry" />
+          <mxGeometry x="123.68" y="575" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="yrA-a9Iw9x8YZGmcqF-S-153" vertex="1">
           <mxGeometry x="65" y="40" width="10" height="10" as="geometry" />
@@ -206,16 +206,16 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-158" value="道路&amp;nbsp; \(r^{(n)}_m\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;flipV=1;flipH=1;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="0.3100000000000023" y="459.5" width="108" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-163" value="\(R^{(n)}=\{r^{(n)}_1,r^{(n)}_2,\dots,r^{(n)}_m\}\)" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;glass=0;sketch=1;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-163" value="\(R^{(n)}=\{r^{(n)}_1,r^{(n)}_2,\dots,r^{(n)}_m\}\)" style="text;whiteSpace=wrap;html=1;align=center;fillColor=default;strokeColor=#d6b656;shadow=1;glass=0;sketch=1;labelBackgroundColor=none;fontStyle=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-49.69" y="503.75" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-165" value="\(s^{n}_x=\max\frac{s^{n}_i}{S^{(n)}_N},s_i^{n} \in S^{(n)}\)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;flipH=1;flipV=1;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-165" value="\(s^{n}_x=\max\frac{s^{n}_i}{S^{(n)}_N},s_i^{n} \in S^{(n)}\)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;flipH=1;flipV=1;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="456.06" y="440.87" width="158.75" height="29.75" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-166" value="&lt;div&gt;\(S^{(n)}=\{s^{(n)}_1,s^{(n)}_2,\dots,s^{(n)}_m\}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-166" value="&lt;div&gt;\(S^{(n)}=\{s^{(n)}_1,s^{(n)}_2,\dots,s^{(n)}_m\}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="260.31" y="580" width="168.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-167" value="&lt;div&gt;\(S^{(n)}_N=\sum_{i\in S^{(n)}}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-167" value="&lt;div&gt;\(S^{(n)}_N=\sum_{i\in S^{(n)}}\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="260.31" y="630" width="168.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-170" value="订单池&amp;nbsp; \(O^{(n+1)}\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;shadow=1;fontStyle=1" parent="1" vertex="1">
@@ -227,10 +227,10 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-176" value="加入订单池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="386.06" y="480" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-178" value="&lt;div&gt;\(R^{(n)}=R^{(n+1)}\cup\{r^{(n)}_x\}\)&lt;/div&gt;&lt;div&gt;\(R^{(n+1)}\cap\{r^{(n)}_x\}=\emptyset\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;flipH=1;flipV=1;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-178" value="&lt;div&gt;\(R^{(n)}=R^{(n+1)}\cup\{r^{(n)}_x\}\)&lt;/div&gt;&lt;div&gt;\(R^{(n+1)}\cap\{r^{(n)}_x\}=\emptyset\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;flipH=1;flipV=1;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="456.06" y="366" width="158.75" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-179" value="\(O^{(n+1)}=O^{(n)} \cup \{r^{(n)}_x\}\)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-179" value="\(O^{(n+1)}=O^{(n)} \cup \{r^{(n)}_x\}\)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=default;strokeColor=#d6b656;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="456.06" y="531.38" width="158.75" height="29.75" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=1" parent="1" source="yrA-a9Iw9x8YZGmcqF-S-180" target="yrA-a9Iw9x8YZGmcqF-S-181" edge="1">
