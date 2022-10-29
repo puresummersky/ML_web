@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T07:09:45.922Z" agent="5.0 (Macintosh)" etag="gZa5f9iodPdHZMMOudSh" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T07:10:00.525Z" agent="5.0 (Macintosh)" etag="OFamVeWM9lajaxJr8AAk" version="20.2.7" type="github">
   <diagram id="E23BzTuwbjabltv9Nx4B" name="第 1 页">
     <mxGraphModel dx="1898" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="225" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-3" value="道路&amp;nbsp; \(r^{(n)}_1\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="330" width="108" height="27.5" as="geometry" />
+          <mxGeometry x="30" y="330" width="108" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="178" y="327.5" width="10" height="10" as="geometry" />
@@ -182,13 +182,13 @@
           <mxGeometry x="55" y="65" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-154" value="道路&amp;nbsp; \(r^{(n)}_2\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="379.5" width="108" height="25" as="geometry" />
+          <mxGeometry x="30" y="379.5" width="108" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-157" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="81" y="398" width="30" height="30" as="geometry" />
+          <mxGeometry x="69" y="398" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-158" value="道路&amp;nbsp; \(r^{(n)}_m\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="429.5" width="108" height="25" as="geometry" />
+          <mxGeometry x="30" y="429.5" width="108" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-163" value="\(R^{(n)}=\{r^{(n)}_1,r^{(n)}_2,\dots,r^{(n)}_m\}\)" style="text;whiteSpace=wrap;html=1;align=center;fillColor=none;strokeColor=#d6b656;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="473.75" width="170" height="40" as="geometry" />
