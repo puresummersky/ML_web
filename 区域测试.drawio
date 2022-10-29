@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T06:52:51.978Z" agent="5.0 (Macintosh)" etag="zpxge3PaPDOfjqhaDXWw" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T06:54:43.723Z" agent="5.0 (Macintosh)" etag="DHGhsEpinZ3KjhDQmaKF" version="20.2.7" type="github">
   <diagram id="E23BzTuwbjabltv9Nx4B" name="第 1 页">
     <mxGraphModel dx="1496" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-83" value="&lt;div&gt;站点池为\(\emptyset\)&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;满足其他终止条件&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201.25" y="147.5" width="167.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-85" value="\(n=1\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="yrA-a9Iw9x8YZGmcqF-S-85" value="&lt;div&gt;\(n=1\)&lt;/div&gt;&lt;div&gt;\(O^{(n)}=\emptyset\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174.25" y="106.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrA-a9Iw9x8YZGmcqF-S-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16.910569105691057;endSize=2.9138211382113823;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
