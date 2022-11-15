@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T14:07:25.188Z" agent="5.0 (Macintosh)" etag="wle0uG_FDNfa3U7t5TLa" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T14:35:26.556Z" agent="5.0 (Macintosh)" etag="CIVAT5bNO8JGFGWFdsgJ" version="20.5.3" type="github">
   <diagram id="bvM2O6zYVAfy2EAc9lAI" name="第 1 页">
     <mxGraphModel dx="674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -16,20 +16,29 @@
         <mxCell id="sVxv38cH_FCJ9H6od-_0-4" value="&lt;div&gt;站点池\(P=\{p_1,p_2,\dots,p_m\}\)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sVxv38cH_FCJ9H6od-_0-8" value="遍历下一个可能的站点\(p^{cur}\in \complement_{P}\{p^{now}\}\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="290" width="200" height="60" as="geometry" />
+        <mxCell id="sVxv38cH_FCJ9H6od-_0-8" value="&lt;div&gt;遍历下一个可能的站点\(p^{next}_i\in \complement_{P}\{p^{cur}\}\)&lt;/div&gt;&lt;div&gt;\(i=1,2,\dots,m-1\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="290" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVxv38cH_FCJ9H6od-_0-10" value="形成订单集合\(\{p^{now}p^{next}_1,p^{now}p^{next}_2,\dots\}\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVxv38cH_FCJ9H6od-_0-11" value="形成订单集合\(\{p^{now}p^{next}_1,p^{now}p^{next}_2,\dots\}\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sVxv38cH_FCJ9H6od-_0-11" value="得到top k订单集合" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="480" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3HawUOWs4ybG82ycnrm-1" value="订单集合\(\{p^{cur}p^{next}_1,p^{cur}p^{next}_2,\dots,p^{cur}p^{next}_{m-1}\}\)" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="260" height="40" as="geometry" />
+        <mxCell id="H3HawUOWs4ybG82ycnrm-1" value="&lt;div&gt;订单=\(P_{cur-&amp;gt;i}\)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H3HawUOWs4ybG82ycnrm-2" value="订单排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3HawUOWs4ybG82ycnrm-3" value="&lt;div&gt;订单里程=\(||R_i||\)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="305" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H3HawUOWs4ybG82ycnrm-4" value="订单对应子路段=\(R_i\)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="325" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H3HawUOWs4ybG82ycnrm-5" value="\(\{P^{top}_1,P^{top}_2,\dots,P^{top}_k\}\)" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="210" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
