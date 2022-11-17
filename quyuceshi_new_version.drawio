@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T03:38:46.643Z" agent="5.0 (Macintosh)" etag="-S246zlSrAhMQI6Traog" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T03:40:42.510Z" agent="5.0 (Macintosh)" etag="qMTBrtH2rXhe33uWGJWP" version="20.5.3" type="github">
   <diagram id="bvM2O6zYVAfy2EAc9lAI" name="第 1 页">
     <mxGraphModel dx="1741" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="-mNMHIKo_w_xHtXC0TbQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;shadow=1;" parent="1" source="-mNMHIKo_w_xHtXC0TbQ-32" target="sVxv38cH_FCJ9H6od-_0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-mNMHIKo_w_xHtXC0TbQ-32" value="&lt;div&gt;\(R=\complement_{R}R^{top}\)&lt;/div&gt;&lt;div&gt;\(p^{cur}=p^{next}_{top}\)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="-mNMHIKo_w_xHtXC0TbQ-32" value="&lt;div&gt;\(R=\complement_{R}R^{top}\)&lt;/div&gt;&lt;div&gt;\(p^{cur}=p^{next}_{top}\)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="550" y="540" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-mNMHIKo_w_xHtXC0TbQ-37" value="算法输出\(O=\{\{p^{cur},p^{next}_1\},\{p^{next}_1,p^{next}_2\},\dots\}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
